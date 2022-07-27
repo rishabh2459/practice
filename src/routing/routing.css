@@ -1,0 +1,18 @@
+ul {
+    display: flex;
+    background-color: antiquewhite;
+    list-style: none;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.container {
+    background-color: cadetblue;
+    width: 100%;
+    
+}
